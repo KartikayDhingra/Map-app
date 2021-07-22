@@ -2,7 +2,7 @@
 
 Created using React
 
-## Hoested Link
+## Hosted Link
 
 In the project directory, you can run:
 
