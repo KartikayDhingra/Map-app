@@ -49,7 +49,7 @@ const Map = (props) => {
         {props.city&&<h2 className="population">Population- {dummyCities[props.city].population}</h2>}
       <ReactMapGL
         mapboxApiAccessToken={
-          "pk.eyJ1Ijoia2FydGlrYXlkMjMiLCJhIjoiY2tyZXlwZ2R2MHN4MDJ2b2U1Nnl4dHc1aCJ9.vER52XGnCgXJfP-ILKzjtA"
+          "pk.eyJ1Ijoia2FydGlrYXlkMjMiLCJhIjoiY2tyZjAwYzI2NWFycTJwbnh3YnVkcWRwNyJ9.57CNLXzJqNCKm61qOKOnQg"
         }
         {...viewport}
         width="500px"
