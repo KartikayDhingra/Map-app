@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.population{
+    position: absolute;
+    top: 17rem;
+    left: 5%;
+}
+
+.btn-submit{
+    position: absolute;
+    top: 17rem;
+    right: 20%;
+    border: none;
+    background-color: aquamarine;
+    padding: 5px 10px;
+    border-radius: 50px;
+}
